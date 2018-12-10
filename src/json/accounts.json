@@ -57,7 +57,7 @@
             }
         ],
         "prior_balance": 2111,
-        "balance": 1235.3
+        "balance": 1235
     },
     "credit": {
         "unique_name": "credit",
